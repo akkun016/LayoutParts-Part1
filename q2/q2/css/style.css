@@ -12,10 +12,7 @@ li {
   box-shadow: 0 0 0 6px #655;
   border-radius: 13px;
   background-color: #d2b48c;
+  margin: 30px;
   padding: 10px;
   list-style-type: none;
-}
-
-.center-li {
-  margin: 0 60px 0 60px;
 }

@@ -42,12 +42,14 @@
   width: 400px;
   background-color: #ff7be2;
   display: table-cell;
+  padding: 20px;
 }
 
 .bottom-box-3-fixed {
   width: 400px;
   background-color: #ffc67b;
   display: table-cell;
+  padding: 20px;
 }
 
 .bottom-box-4 {
